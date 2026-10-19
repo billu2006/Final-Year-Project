@@ -1,0 +1,26 @@
+strategy,variant,params,s_mult,net_profit,pd_ratio,pd_status,max_drawdown,slippage_paid,fills,activity_pct,profitable_series,bankrupt
+copycat,baseline,(defaults),1.0,-10036.81,-10036.81,loss,10037.5,5999.29,7869,99.9,0/10,False
+copycat,signal_half,stake=0.5,1.0,-5018.41,-5018.41,loss,5018.75,2999.64,7869,99.9,0/10,False
+copycat,signal_double,stake=2,1.0,-20073.62,-20073.62,loss,20075.0,11998.58,7869,99.9,0/10,False
+copycat,smult_0,(defaults),0.0,-4037.52,-4037.52,loss,4119.35,0.0,7869,99.9,0/10,False
+copycat,smult_2,(defaults),2.0,-16036.1,-16036.1,loss,16036.1,11998.58,7869,99.9,0/10,False
+sma_cross_multi,baseline,(defaults),1.0,58.84,0.12,profitable,481.21,177.3,554,96.5,5/10,False
+sma_cross_multi,signal_half,fast=5 slow=15,1.0,-227.04,-227.04,loss,455.19,404.41,1156,98.7,2/10,False
+sma_cross_multi,signal_double,fast=20 slow=60,1.0,21.97,0.05,profitable,400.53,102.37,284,94.9,5/10,False
+sma_cross_multi,smult_0,(defaults),0.0,236.14,0.6,profitable,393.41,0.0,554,96.5,6/10,False
+sma_cross_multi,smult_2,(defaults),2.0,-118.46,-118.46,loss,603.35,354.6,554,96.5,5/10,False
+p_bbands_trend_following,baseline,(defaults),1.0,-445.1,-445.1,loss,1228.8,276.42,374,98.3,4/10,False
+p_bbands_trend_following,signal_half,lookback=10,1.0,-679.43,-679.43,loss,942.09,362.01,491,99.2,3/10,False
+p_bbands_trend_following,signal_double,lookback=40,1.0,-781.66,-781.66,loss,1384.12,173.61,220,97.2,3/10,False
+p_bbands_trend_following,smult_0,(defaults),0.0,-168.68,-168.68,loss,1021.21,0.0,374,98.3,7/10,False
+p_bbands_trend_following,smult_2,(defaults),2.0,-721.51,-721.51,loss,1436.39,552.84,374,98.3,4/10,False
+p_bbands_contrarian,baseline,(defaults),1.0,-708.4,-708.4,loss,732.38,697.92,1822,59.1,2/10,False
+p_bbands_contrarian,signal_half,lookback=10,1.0,-912.85,-912.85,loss,945.95,769.79,2029,51.3,2/10,False
+p_bbands_contrarian,signal_double,lookback=40,1.0,-53.83,-53.83,loss,240.62,536.83,1352,61.2,4/10,False
+p_bbands_contrarian,smult_0,(defaults),0.0,-10.48,-10.48,loss,306.73,0.0,1822,59.1,7/10,False
+p_bbands_contrarian,smult_2,(defaults),2.0,-1406.32,-1406.32,loss,1419.62,1395.84,1822,59.1,0/10,False
+p_mm_spread,baseline,(defaults),1.0,-784.5,-784.5,loss,17673.74,75.86,22270,99.9,4/10,False
+p_mm_spread,signal_half,spreadPercentage=0.05,1.0,2158.58,0.14,profitable,15305.97,68.5,22662,99.9,4/10,False
+p_mm_spread,signal_double,spreadPercentage=0.2,1.0,1024.4,0.06,profitable,17271.96,94.48,21377,99.9,5/10,False
+p_mm_spread,smult_0,(defaults),0.0,-708.64,-708.64,loss,17673.74,0.0,22270,99.9,4/10,False
+p_mm_spread,smult_2,(defaults),2.0,-860.36,-860.36,loss,17673.74,151.73,22270,99.9,4/10,False

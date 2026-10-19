@@ -1,0 +1,26 @@
+strategy,variant,params,net_PART1,net_PART1_UPDATED,pd_PART1,pd_PART1_UPDATED,dd_PART1,dd_PART1_UPDATED,slip_PART1,slip_PART1_UPDATED,fills_PART1,fills_PART1_UPDATED
+copycat,baseline,(defaults),-9331.19,-10036.81,-9331.19,-10036.81,9364.58,10037.5,7165.99,5999.29,7434,7869
+copycat,signal_half,stake=0.5,-4665.6,-5018.41,-4665.6,-5018.41,4682.29,5018.75,3583.0,2999.64,7434,7869
+copycat,signal_double,stake=2,-18662.39,-20073.62,-18662.39,-20073.62,18729.15,20075.0,14331.99,11998.58,7434,7869
+copycat,smult_0,(defaults),-2165.2,-4037.52,-2165.2,-4037.52,2390.92,4119.35,0.0,0.0,7434,7869
+copycat,smult_2,(defaults),-16497.19,-16036.1,-16497.19,-16036.1,16497.19,16036.1,14331.99,11998.58,7434,7869
+sma_cross_multi,baseline,(defaults),-742.55,58.84,-742.55,0.12,1389.78,481.21,279.82,177.3,624,554
+sma_cross_multi,signal_half,fast=5 slow=15,-1230.56,-227.04,-1230.56,-227.04,1481.4,455.19,599.54,404.41,1318,1156
+sma_cross_multi,signal_double,fast=20 slow=60,-176.8,21.97,-176.8,0.05,686.82,400.53,116.36,102.37,282,284
+sma_cross_multi,smult_0,(defaults),-462.73,236.14,-462.73,0.6,1149.24,393.41,0.0,0.0,624,554
+sma_cross_multi,smult_2,(defaults),-1022.36,-118.46,-1022.36,-118.46,1630.32,603.35,559.63,354.6,624,554
+p_bbands_trend_following,baseline,(defaults),-334.55,-445.1,-334.55,-445.1,1013.43,1228.8,329.09,276.42,338,374
+p_bbands_trend_following,signal_half,lookback=10,-1155.31,-679.43,-1155.31,-679.43,1475.25,942.09,484.42,362.01,431,491
+p_bbands_trend_following,signal_double,lookback=40,-235.86,-781.66,-235.86,-781.66,960.92,1384.12,183.87,173.61,193,220
+p_bbands_trend_following,smult_0,(defaults),-5.46,-168.68,-5.46,-168.68,796.54,1021.21,0.0,0.0,338,374
+p_bbands_trend_following,smult_2,(defaults),-663.64,-721.51,-663.64,-721.51,1278.51,1436.39,658.18,552.84,338,374
+p_bbands_contrarian,baseline,(defaults),-864.72,-708.4,-864.72,-708.4,886.59,732.38,944.27,697.92,1885,1822
+p_bbands_contrarian,signal_half,lookback=10,-1141.61,-912.85,-1141.61,-912.85,1161.84,945.95,978.14,769.79,1798,2029
+p_bbands_contrarian,signal_double,lookback=40,-390.59,-53.83,-390.59,-53.83,423.66,240.62,748.6,536.83,1568,1352
+p_bbands_contrarian,smult_0,(defaults),79.55,-10.48,0.38,-10.48,210.97,306.73,0.0,0.0,1885,1822
+p_bbands_contrarian,smult_2,(defaults),-1808.98,-1406.32,-1808.98,-1406.32,1826.61,1419.62,1888.53,1395.84,1885,1822
+p_mm_spread,baseline,(defaults),829.72,-784.5,0.04,-784.5,21567.78,17673.74,267.39,75.86,22052,22270
+p_mm_spread,signal_half,spreadPercentage=0.05,155.89,2158.58,0.01,0.14,21818.03,15305.97,274.47,68.5,22378,22662
+p_mm_spread,signal_double,spreadPercentage=0.2,3899.48,1024.4,0.2,0.06,19567.78,17271.96,285.44,94.48,21299,21377
+p_mm_spread,smult_0,(defaults),1097.11,-708.64,0.05,-708.64,21567.78,17673.74,0.0,0.0,22052,22270
+p_mm_spread,smult_2,(defaults),562.33,-860.36,0.03,-860.36,21567.78,17673.74,534.78,151.73,22052,22270

@@ -1,0 +1,61 @@
+COMP396 TRADING RULES — BT396 0.1.5
+
+Decide using information available by the close of day k. Orders are eligible
+on the following trading bar, day k+1. Do not use future prices for signals.
+
+For each series and decision day you may submit:
+  - one market order, with a signed quantity;
+  - two independent limit orders, each with a signed quantity and limit price.
+The limits may both be buys, both sells, or one of each. Strategy components
+share these allowances. Zero quantities do not submit orders.
+
+Market orders execute at the next open. The additional cash cost is:
+  s_mult * 0.2 * abs(open[k+1] - close[k]) * abs(quantity)
+The standard s_mult is 1.0. This cost applies to markets, including mandatory
+closing trades, and not to limits.
+
+Limit execution preserves the R v5.9 course model. On the eligible bar:
+  BUY:  low < limit - 0.0001; fill at min(limit, high).
+  SELL: high > limit + 0.0001; fill at max(limit, low).
+An exact touch does not fill. Native Backtrader opening-price improvement is
+not used. No volume partial-fill model is applied. Unfilled limits are cancelled
+after their single eligible bar and do not carry to another day.
+
+The broker calculates all eligible ordinary market and limit fills across
+all series together, including execution costs and configured commissions.
+If total net spending exceeds cash, none of those ordinary trades execute.
+Existing positions remain. Sale proceeds can fund purchases in that basket;
+submission order does not determine whether a funded basket fills.
+There is no separate penalty for an overspending attempt.
+
+overspend_guard(intents) is an optional estimate using known closing prices
+and commission. It cannot know tomorrow's gap or eligible future limit fills
+and does not guarantee acceptance. The broker makes the definitive check on
+the execution bar. A target adjustment is target minus current position.
+
+Shorting is allowed. Account value is cash plus signed holdings. Bankruptcy
+is checked at the open, including after execution costs. Positions are closed
+at that open with market costs and subsequent strategy trading stops.
+Mandatory bankruptcy/final exits are outside ordinary submission allowances
+and affordability rejection. Corrected liquidation/accounting is retained.
+
+The standard end policy is liquidate: each feed closes at its own final open,
+with market slippage, and may not be reopened at that boundary. The hold option
+is for experiments; use the assessment's prescribed setting.
+
+Only independent Market and Limit orders are supported. Native stops, OCO,
+brackets and volume fillers are not part of this course model. Implement a
+daily stop-loss decision with an allowed market exit; the next open may be
+beyond the chosen threshold.
+
+METRICS
+
+PD uses daily closing net P/L, including execution costs. Positive final profit
+is divided by maximum monetary drawdown, with an initial zero baseline. Positive
+profit with no drawdown gives infinity; non-positive final outcomes give signed
+net P/L. Portfolio PD uses the combined curve, not an average of series scores.
+
+Activity is the percentage of observed daily bars with a nonzero net position
+in at least one series, including flat boundary bars in the denominator.
+These conventions are retained deliberately rather than restoring the R
+open-based curve and N-2 denominator.

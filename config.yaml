@@ -1,0 +1,11 @@
+
+starting_cash: 1000000
+commission: 0.0
+s_mult: 1.0
+plot: true
+data_dir: "./DATA/PART1"
+output_dir: "./output"
+end_policy: "liquidate"
+
+
+
