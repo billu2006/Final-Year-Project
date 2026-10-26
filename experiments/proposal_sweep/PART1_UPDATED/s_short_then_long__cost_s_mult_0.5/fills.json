@@ -1,0 +1,22 @@
+[
+  {
+    "date": "1968-01-03",
+    "series": "series_1",
+    "order_ref": 1,
+    "order_type": "Market",
+    "size": -38030.947683677594,
+    "price": 214.381,
+    "commission": 0.0,
+    "slippage": 15311.25953744864
+  },
+  {
+    "date": "1968-01-04",
+    "series": "series_1",
+    "order_ref": 2,
+    "order_type": "Market",
+    "size": 38030.947683677594,
+    "price": 222.66,
+    "commission": 0.0,
+    "slippage": 5058.116041929168
+  }
+]

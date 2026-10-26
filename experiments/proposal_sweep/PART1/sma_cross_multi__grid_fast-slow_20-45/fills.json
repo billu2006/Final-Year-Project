@@ -1,0 +1,3942 @@
+[
+  {
+    "date": "1975-05-13",
+    "series": "series_7",
+    "order_ref": 1,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 199.482,
+    "commission": 0.0,
+    "slippage": 0.8577999999999975
+  },
+  {
+    "date": "1975-05-17",
+    "series": "series_2",
+    "order_ref": 2,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.931505,
+    "commission": 0.0,
+    "slippage": 0.003071999999999986
+  },
+  {
+    "date": "1975-05-18",
+    "series": "series_4",
+    "order_ref": 3,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 89.5804,
+    "commission": 0.0,
+    "slippage": 0.3379800000000017
+  },
+  {
+    "date": "1975-05-20",
+    "series": "series_3",
+    "order_ref": 4,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 641.266,
+    "commission": 0.0,
+    "slippage": 0.5195999999999913
+  },
+  {
+    "date": "1975-05-25",
+    "series": "series_9",
+    "order_ref": 5,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 649.349,
+    "commission": 0.0,
+    "slippage": 6.772799999999984
+  },
+  {
+    "date": "1975-05-31",
+    "series": "series_4",
+    "order_ref": 6,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 84.1954,
+    "commission": 0.0,
+    "slippage": 0.0712399999999974
+  },
+  {
+    "date": "1975-05-31",
+    "series": "series_5",
+    "order_ref": 7,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 68.0091,
+    "commission": 0.0,
+    "slippage": 0.033600000000001275
+  },
+  {
+    "date": "1975-06-09",
+    "series": "series_2",
+    "order_ref": 8,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.858946,
+    "commission": 0.0,
+    "slippage": 0.0007047999999999944
+  },
+  {
+    "date": "1975-06-14",
+    "series": "series_10",
+    "order_ref": 9,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 7.7874,
+    "commission": 0.0,
+    "slippage": 0.01993799999999997
+  },
+  {
+    "date": "1975-06-17",
+    "series": "series_10",
+    "order_ref": 10,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 7.83049,
+    "commission": 0.0,
+    "slippage": 0.0016980000000000218
+  },
+  {
+    "date": "1975-06-25",
+    "series": "series_2",
+    "order_ref": 11,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.975811,
+    "commission": 0.0,
+    "slippage": 0.002884399999999987
+  },
+  {
+    "date": "1975-07-09",
+    "series": "series_4",
+    "order_ref": 12,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 88.684,
+    "commission": 0.0,
+    "slippage": 0.2675399999999996
+  },
+  {
+    "date": "1975-07-21",
+    "series": "series_3",
+    "order_ref": 13,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 643.577,
+    "commission": 0.0,
+    "slippage": 1.456400000000008
+  },
+  {
+    "date": "1975-07-22",
+    "series": "series_9",
+    "order_ref": 14,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 651.095,
+    "commission": 0.0,
+    "slippage": 0.677599999999984
+  },
+  {
+    "date": "1975-08-06",
+    "series": "series_10",
+    "order_ref": 15,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 7.72292,
+    "commission": 0.0,
+    "slippage": 0.013403999999999883
+  },
+  {
+    "date": "1975-08-10",
+    "series": "series_2",
+    "order_ref": 16,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.890888,
+    "commission": 0.0,
+    "slippage": 0.0044167999999999985
+  },
+  {
+    "date": "1975-08-11",
+    "series": "series_7",
+    "order_ref": 17,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 187.644,
+    "commission": 0.0,
+    "slippage": 0.5838000000000022
+  },
+  {
+    "date": "1975-08-19",
+    "series": "series_5",
+    "order_ref": 18,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 69.2097,
+    "commission": 0.0,
+    "slippage": 0.004040000000000532
+  },
+  {
+    "date": "1975-08-25",
+    "series": "series_3",
+    "order_ref": 19,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 717.475,
+    "commission": 0.0,
+    "slippage": 2.098199999999997
+  },
+  {
+    "date": "1975-08-26",
+    "series": "series_9",
+    "order_ref": 20,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 722.941,
+    "commission": 0.0,
+    "slippage": 1.0395999999999959
+  },
+  {
+    "date": "1975-08-27",
+    "series": "series_10",
+    "order_ref": 21,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 7.72385,
+    "commission": 0.0,
+    "slippage": 0.01705199999999998
+  },
+  {
+    "date": "1975-09-16",
+    "series": "series_2",
+    "order_ref": 22,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.927415,
+    "commission": 0.0,
+    "slippage": 0.0029260000000000067
+  },
+  {
+    "date": "1975-09-16",
+    "series": "series_6",
+    "order_ref": 23,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 47.3868,
+    "commission": 0.0,
+    "slippage": 0.029220000000000825
+  },
+  {
+    "date": "1975-09-28",
+    "series": "series_10",
+    "order_ref": 24,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 7.70007,
+    "commission": 0.0,
+    "slippage": 0.023101999999999914
+  },
+  {
+    "date": "1975-09-29",
+    "series": "series_10",
+    "order_ref": 25,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 7.80648,
+    "commission": 0.0,
+    "slippage": 0.024377999999999924
+  },
+  {
+    "date": "1975-10-07",
+    "series": "series_3",
+    "order_ref": 26,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 658.177,
+    "commission": 0.0,
+    "slippage": 0.2703999999999951
+  },
+  {
+    "date": "1975-10-07",
+    "series": "series_10",
+    "order_ref": 27,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 7.66348,
+    "commission": 0.0,
+    "slippage": 0.031010000000000027
+  },
+  {
+    "date": "1975-10-08",
+    "series": "series_4",
+    "order_ref": 28,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 89.4579,
+    "commission": 0.0,
+    "slippage": 0.05064000000000135
+  },
+  {
+    "date": "1975-10-11",
+    "series": "series_9",
+    "order_ref": 29,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 645.368,
+    "commission": 0.0,
+    "slippage": 0.4692000000000007
+  },
+  {
+    "date": "1975-10-11",
+    "series": "series_5",
+    "order_ref": 30,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 70.9801,
+    "commission": 0.0,
+    "slippage": 0.01921999999999855
+  },
+  {
+    "date": "1975-10-22",
+    "series": "series_10",
+    "order_ref": 31,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 7.72437,
+    "commission": 0.0,
+    "slippage": 0.02109400000000008
+  },
+  {
+    "date": "1975-10-28",
+    "series": "series_2",
+    "order_ref": 32,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.933863,
+    "commission": 0.0,
+    "slippage": 0.003050799999999998
+  },
+  {
+    "date": "1975-11-09",
+    "series": "series_5",
+    "order_ref": 33,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 66.9779,
+    "commission": 0.0,
+    "slippage": 0.1829400000000021
+  },
+  {
+    "date": "1975-11-17",
+    "series": "series_7",
+    "order_ref": 34,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 173.238,
+    "commission": 0.0,
+    "slippage": 0.1038000000000011
+  },
+  {
+    "date": "1975-11-22",
+    "series": "series_10",
+    "order_ref": 35,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 8.02196,
+    "commission": 0.0,
+    "slippage": 0.00278199999999984
+  },
+  {
+    "date": "1975-11-24",
+    "series": "series_6",
+    "order_ref": 36,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 48.2043,
+    "commission": 0.0,
+    "slippage": 0.12154000000000026
+  },
+  {
+    "date": "1975-11-29",
+    "series": "series_7",
+    "order_ref": 37,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 153.796,
+    "commission": 0.0,
+    "slippage": 0.4765999999999963
+  },
+  {
+    "date": "1975-12-14",
+    "series": "series_8",
+    "order_ref": 38,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 130.169,
+    "commission": 0.0,
+    "slippage": 0.06259999999999764
+  },
+  {
+    "date": "1975-12-30",
+    "series": "series_5",
+    "order_ref": 39,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 66.1606,
+    "commission": 0.0,
+    "slippage": 0.14642000000000052
+  },
+  {
+    "date": "1976-01-04",
+    "series": "series_4",
+    "order_ref": 40,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 119.268,
+    "commission": 0.0,
+    "slippage": 0.796799999999999
+  },
+  {
+    "date": "1976-01-05",
+    "series": "series_7",
+    "order_ref": 41,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 183.305,
+    "commission": 0.0,
+    "slippage": 0.14239999999999783
+  },
+  {
+    "date": "1976-01-12",
+    "series": "series_5",
+    "order_ref": 42,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 61.7789,
+    "commission": 0.0,
+    "slippage": 0.08903999999999997
+  },
+  {
+    "date": "1976-01-14",
+    "series": "series_2",
+    "order_ref": 43,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.836183,
+    "commission": 0.0,
+    "slippage": 0.00046779999999999603
+  },
+  {
+    "date": "1976-01-27",
+    "series": "series_8",
+    "order_ref": 45,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 119.997,
+    "commission": 0.0,
+    "slippage": 0.37100000000000083
+  },
+  {
+    "date": "1976-01-27",
+    "series": "series_2",
+    "order_ref": 44,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.805206,
+    "commission": 0.0,
+    "slippage": 0.0003549999999999942
+  },
+  {
+    "date": "1976-02-10",
+    "series": "series_7",
+    "order_ref": 46,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 155.522,
+    "commission": 0.0,
+    "slippage": 0.32160000000000083
+  },
+  {
+    "date": "1976-02-24",
+    "series": "series_5",
+    "order_ref": 47,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 63.257,
+    "commission": 0.0,
+    "slippage": 0.007640000000000669
+  },
+  {
+    "date": "1976-03-09",
+    "series": "series_5",
+    "order_ref": 48,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 60.303,
+    "commission": 0.0,
+    "slippage": 0.18008000000000096
+  },
+  {
+    "date": "1976-03-09",
+    "series": "series_8",
+    "order_ref": 49,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 126.984,
+    "commission": 0.0,
+    "slippage": 0.10600000000000023
+  },
+  {
+    "date": "1976-03-10",
+    "series": "series_3",
+    "order_ref": 50,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 527.619,
+    "commission": 0.0,
+    "slippage": 0.8056000000000041
+  },
+  {
+    "date": "1976-03-13",
+    "series": "series_2",
+    "order_ref": 51,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.844276,
+    "commission": 0.0,
+    "slippage": 0.003631399999999996
+  },
+  {
+    "date": "1976-03-13",
+    "series": "series_9",
+    "order_ref": 52,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 516.399,
+    "commission": 0.0,
+    "slippage": 3.8298000000000005
+  },
+  {
+    "date": "1976-03-17",
+    "series": "series_7",
+    "order_ref": 53,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 164.332,
+    "commission": 0.0,
+    "slippage": 0.5352000000000032
+  },
+  {
+    "date": "1976-03-20",
+    "series": "series_1",
+    "order_ref": 54,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 218.843,
+    "commission": 0.0,
+    "slippage": 1.2932000000000017
+  },
+  {
+    "date": "1976-04-03",
+    "series": "series_5",
+    "order_ref": 55,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 67.7779,
+    "commission": 0.0,
+    "slippage": 0.03488000000000113
+  },
+  {
+    "date": "1976-04-05",
+    "series": "series_6",
+    "order_ref": 56,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 50.3097,
+    "commission": 0.0,
+    "slippage": 0.10152000000000072
+  },
+  {
+    "date": "1976-04-10",
+    "series": "series_3",
+    "order_ref": 57,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 456.018,
+    "commission": 0.0,
+    "slippage": 2.261200000000008
+  },
+  {
+    "date": "1976-04-13",
+    "series": "series_9",
+    "order_ref": 58,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 469.212,
+    "commission": 0.0,
+    "slippage": 1.535399999999993
+  },
+  {
+    "date": "1976-04-14",
+    "series": "series_2",
+    "order_ref": 59,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.810346,
+    "commission": 0.0,
+    "slippage": 0.0016458000000000085
+  },
+  {
+    "date": "1976-04-26",
+    "series": "series_4",
+    "order_ref": 60,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 142.65,
+    "commission": 0.0,
+    "slippage": 0.573599999999999
+  },
+  {
+    "date": "1976-04-27",
+    "series": "series_4",
+    "order_ref": 61,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 140.673,
+    "commission": 0.0,
+    "slippage": 0.07579999999999815
+  },
+  {
+    "date": "1976-05-03",
+    "series": "series_4",
+    "order_ref": 62,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 136.455,
+    "commission": 0.0,
+    "slippage": 0.2650000000000034
+  },
+  {
+    "date": "1976-05-04",
+    "series": "series_1",
+    "order_ref": 63,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 221.595,
+    "commission": 0.0,
+    "slippage": 0.13580000000000042
+  },
+  {
+    "date": "1976-05-04",
+    "series": "series_8",
+    "order_ref": 64,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 114.163,
+    "commission": 0.0,
+    "slippage": 0.6867999999999995
+  },
+  {
+    "date": "1976-05-22",
+    "series": "series_5",
+    "order_ref": 65,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 70.2034,
+    "commission": 0.0,
+    "slippage": 0.015739999999999556
+  },
+  {
+    "date": "1976-06-06",
+    "series": "series_5",
+    "order_ref": 66,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 68.4608,
+    "commission": 0.0,
+    "slippage": 0.2768799999999999
+  },
+  {
+    "date": "1976-06-22",
+    "series": "series_7",
+    "order_ref": 67,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 183.265,
+    "commission": 0.0,
+    "slippage": 0.6539999999999964
+  },
+  {
+    "date": "1976-06-23",
+    "series": "series_5",
+    "order_ref": 68,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 66.9669,
+    "commission": 0.0,
+    "slippage": 0.19823999999999842
+  },
+  {
+    "date": "1976-07-10",
+    "series": "series_8",
+    "order_ref": 69,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 123.519,
+    "commission": 0.0,
+    "slippage": 0.1353999999999985
+  },
+  {
+    "date": "1976-07-12",
+    "series": "series_6",
+    "order_ref": 70,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 50.4157,
+    "commission": 0.0,
+    "slippage": 0.4545000000000002
+  },
+  {
+    "date": "1976-07-13",
+    "series": "series_7",
+    "order_ref": 71,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 185.319,
+    "commission": 0.0,
+    "slippage": 0.6698000000000036
+  },
+  {
+    "date": "1976-07-17",
+    "series": "series_1",
+    "order_ref": 72,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 207.65,
+    "commission": 0.0,
+    "slippage": 0.1788000000000011
+  },
+  {
+    "date": "1976-07-18",
+    "series": "series_1",
+    "order_ref": 73,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 206.289,
+    "commission": 0.0,
+    "slippage": 0.10919999999999846
+  },
+  {
+    "date": "1976-07-18",
+    "series": "series_2",
+    "order_ref": 74,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.830833,
+    "commission": 0.0,
+    "slippage": 0.0017663999999999902
+  },
+  {
+    "date": "1976-07-25",
+    "series": "series_7",
+    "order_ref": 75,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 168.114,
+    "commission": 0.0,
+    "slippage": 1.1718000000000017
+  },
+  {
+    "date": "1976-07-25",
+    "series": "series_4",
+    "order_ref": 76,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 134.699,
+    "commission": 0.0,
+    "slippage": 0.018999999999999774
+  },
+  {
+    "date": "1976-08-04",
+    "series": "series_5",
+    "order_ref": 78,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 63.8997,
+    "commission": 0.0,
+    "slippage": 0.7921999999999983
+  },
+  {
+    "date": "1976-08-04",
+    "series": "series_3",
+    "order_ref": 77,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 439.953,
+    "commission": 0.0,
+    "slippage": 1.9256000000000086
+  },
+  {
+    "date": "1976-08-09",
+    "series": "series_9",
+    "order_ref": 79,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 418.142,
+    "commission": 0.0,
+    "slippage": 1.0831999999999995
+  },
+  {
+    "date": "1976-08-15",
+    "series": "series_4",
+    "order_ref": 80,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 124.542,
+    "commission": 0.0,
+    "slippage": 0.47000000000000175
+  },
+  {
+    "date": "1976-08-22",
+    "series": "series_8",
+    "order_ref": 81,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 110.708,
+    "commission": 0.0,
+    "slippage": 0.09939999999999999
+  },
+  {
+    "date": "1976-08-22",
+    "series": "series_6",
+    "order_ref": 82,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 51.07,
+    "commission": 0.0,
+    "slippage": 0.1619
+  },
+  {
+    "date": "1976-08-25",
+    "series": "series_2",
+    "order_ref": 83,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.76545,
+    "commission": 0.0,
+    "slippage": 0.0006113999999999953
+  },
+  {
+    "date": "1976-09-12",
+    "series": "series_6",
+    "order_ref": 84,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 48.6766,
+    "commission": 0.0,
+    "slippage": 0.05476000000000028
+  },
+  {
+    "date": "1976-09-13",
+    "series": "series_8",
+    "order_ref": 85,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 124.305,
+    "commission": 0.0,
+    "slippage": 0.4853999999999985
+  },
+  {
+    "date": "1976-09-14",
+    "series": "series_4",
+    "order_ref": 86,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 128.547,
+    "commission": 0.0,
+    "slippage": 0.26580000000000154
+  },
+  {
+    "date": "1976-09-20",
+    "series": "series_5",
+    "order_ref": 87,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 64.3617,
+    "commission": 0.0,
+    "slippage": 0.08592000000000014
+  },
+  {
+    "date": "1976-09-21",
+    "series": "series_3",
+    "order_ref": 88,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 418.325,
+    "commission": 0.0,
+    "slippage": 1.5846000000000005
+  },
+  {
+    "date": "1976-09-25",
+    "series": "series_9",
+    "order_ref": 89,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 418.861,
+    "commission": 0.0,
+    "slippage": 2.0337999999999967
+  },
+  {
+    "date": "1976-10-09",
+    "series": "series_4",
+    "order_ref": 90,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 114.999,
+    "commission": 0.0,
+    "slippage": 0.11319999999999766
+  },
+  {
+    "date": "1976-10-23",
+    "series": "series_1",
+    "order_ref": 91,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 189.644,
+    "commission": 0.0,
+    "slippage": 0.31920000000000076
+  },
+  {
+    "date": "1976-11-06",
+    "series": "series_7",
+    "order_ref": 92,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 145.146,
+    "commission": 0.0,
+    "slippage": 0.6538000000000012
+  },
+  {
+    "date": "1976-11-16",
+    "series": "series_4",
+    "order_ref": 93,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 128.476,
+    "commission": 0.0,
+    "slippage": 0.5042000000000002
+  },
+  {
+    "date": "1976-11-21",
+    "series": "series_10",
+    "order_ref": 94,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.21759,
+    "commission": 0.0,
+    "slippage": 0.0017319999999998005
+  },
+  {
+    "date": "1976-11-23",
+    "series": "series_10",
+    "order_ref": 95,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.05768,
+    "commission": 0.0,
+    "slippage": 0.03070599999999999
+  },
+  {
+    "date": "1976-11-28",
+    "series": "series_10",
+    "order_ref": 96,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.09867,
+    "commission": 0.0,
+    "slippage": 0.004708000000000112
+  },
+  {
+    "date": "1976-11-29",
+    "series": "series_10",
+    "order_ref": 97,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.20781,
+    "commission": 0.0,
+    "slippage": 0.0255980000000001
+  },
+  {
+    "date": "1976-11-30",
+    "series": "series_10",
+    "order_ref": 98,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.15732,
+    "commission": 0.0,
+    "slippage": 0.008333999999999975
+  },
+  {
+    "date": "1976-12-11",
+    "series": "series_1",
+    "order_ref": 100,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 181.758,
+    "commission": 0.0,
+    "slippage": 0.748599999999999
+  },
+  {
+    "date": "1976-12-11",
+    "series": "series_9",
+    "order_ref": 99,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 373.575,
+    "commission": 0.0,
+    "slippage": 4.0798000000000005
+  },
+  {
+    "date": "1976-12-12",
+    "series": "series_10",
+    "order_ref": 102,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.15079,
+    "commission": 0.0,
+    "slippage": 0.020947999999999925
+  },
+  {
+    "date": "1976-12-12",
+    "series": "series_1",
+    "order_ref": 101,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 187.36,
+    "commission": 0.0,
+    "slippage": 0.1882000000000005
+  },
+  {
+    "date": "1976-12-13",
+    "series": "series_1",
+    "order_ref": 103,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 181.774,
+    "commission": 0.0,
+    "slippage": 0.04499999999999887
+  },
+  {
+    "date": "1976-12-13",
+    "series": "series_10",
+    "order_ref": 104,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.23041,
+    "commission": 0.0,
+    "slippage": 0.028337999999999752
+  },
+  {
+    "date": "1976-12-14",
+    "series": "series_10",
+    "order_ref": 105,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.03371,
+    "commission": 0.0,
+    "slippage": 0.026004000000000006
+  },
+  {
+    "date": "1976-12-20",
+    "series": "series_9",
+    "order_ref": 106,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 375.708,
+    "commission": 0.0,
+    "slippage": 0.5983999999999924
+  },
+  {
+    "date": "1976-12-21",
+    "series": "series_4",
+    "order_ref": 107,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 118.934,
+    "commission": 0.0,
+    "slippage": 0.3759999999999991
+  },
+  {
+    "date": "1976-12-22",
+    "series": "series_8",
+    "order_ref": 108,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 138.11,
+    "commission": 0.0,
+    "slippage": 0.49099999999999683
+  },
+  {
+    "date": "1976-12-22",
+    "series": "series_10",
+    "order_ref": 109,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.03967,
+    "commission": 0.0,
+    "slippage": 0.004057999999999851
+  },
+  {
+    "date": "1976-12-27",
+    "series": "series_7",
+    "order_ref": 110,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 148.663,
+    "commission": 0.0,
+    "slippage": 0.6124000000000024
+  },
+  {
+    "date": "1976-12-29",
+    "series": "series_4",
+    "order_ref": 111,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 157.231,
+    "commission": 0.0,
+    "slippage": 0.1807999999999993
+  },
+  {
+    "date": "1977-01-01",
+    "series": "series_6",
+    "order_ref": 112,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 47.6338,
+    "commission": 0.0,
+    "slippage": 0.19557999999999964
+  },
+  {
+    "date": "1977-01-02",
+    "series": "series_10",
+    "order_ref": 114,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.11499,
+    "commission": 0.0,
+    "slippage": 0.02742199999999997
+  },
+  {
+    "date": "1977-01-02",
+    "series": "series_1",
+    "order_ref": 113,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 194.439,
+    "commission": 0.0,
+    "slippage": 0.7062000000000013
+  },
+  {
+    "date": "1977-01-03",
+    "series": "series_10",
+    "order_ref": 115,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.09232,
+    "commission": 0.0,
+    "slippage": 0.014997999999999935
+  },
+  {
+    "date": "1977-01-04",
+    "series": "series_10",
+    "order_ref": 116,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.17424,
+    "commission": 0.0,
+    "slippage": 0.013644000000000035
+  },
+  {
+    "date": "1977-01-05",
+    "series": "series_10",
+    "order_ref": 117,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.12961,
+    "commission": 0.0,
+    "slippage": 0.020946
+  },
+  {
+    "date": "1977-01-08",
+    "series": "series_10",
+    "order_ref": 118,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.07195,
+    "commission": 0.0,
+    "slippage": 0.032714
+  },
+  {
+    "date": "1977-01-12",
+    "series": "series_5",
+    "order_ref": 119,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 61.4879,
+    "commission": 0.0,
+    "slippage": 0.010960000000000037
+  },
+  {
+    "date": "1977-01-24",
+    "series": "series_8",
+    "order_ref": 120,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 158.706,
+    "commission": 0.0,
+    "slippage": 0.37239999999999895
+  },
+  {
+    "date": "1977-02-09",
+    "series": "series_1",
+    "order_ref": 121,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 184.294,
+    "commission": 0.0,
+    "slippage": 0.34720000000000373
+  },
+  {
+    "date": "1977-02-13",
+    "series": "series_4",
+    "order_ref": 122,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 129.051,
+    "commission": 0.0,
+    "slippage": 0.5687999999999989
+  },
+  {
+    "date": "1977-02-22",
+    "series": "series_6",
+    "order_ref": 123,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 49.7202,
+    "commission": 0.0,
+    "slippage": 0.07793999999999955
+  },
+  {
+    "date": "1977-03-09",
+    "series": "series_8",
+    "order_ref": 124,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 127.052,
+    "commission": 0.0,
+    "slippage": 0.019599999999999798
+  },
+  {
+    "date": "1977-03-13",
+    "series": "series_6",
+    "order_ref": 125,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 50.5492,
+    "commission": 0.0,
+    "slippage": 0.15056000000000014
+  },
+  {
+    "date": "1977-03-14",
+    "series": "series_7",
+    "order_ref": 126,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 142.003,
+    "commission": 0.0,
+    "slippage": 0.08720000000000142
+  },
+  {
+    "date": "1977-03-26",
+    "series": "series_1",
+    "order_ref": 127,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 192.824,
+    "commission": 0.0,
+    "slippage": 0.500200000000001
+  },
+  {
+    "date": "1977-04-03",
+    "series": "series_9",
+    "order_ref": 128,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 336.27,
+    "commission": 0.0,
+    "slippage": 1.4189999999999943
+  },
+  {
+    "date": "1977-04-05",
+    "series": "series_3",
+    "order_ref": 129,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 333.864,
+    "commission": 0.0,
+    "slippage": 0.9975999999999999
+  },
+  {
+    "date": "1977-04-06",
+    "series": "series_7",
+    "order_ref": 130,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 129.563,
+    "commission": 0.0,
+    "slippage": 0.13540000000000418
+  },
+  {
+    "date": "1977-04-09",
+    "series": "series_2",
+    "order_ref": 131,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.695633,
+    "commission": 0.0,
+    "slippage": 0.0002501999999999782
+  },
+  {
+    "date": "1977-04-27",
+    "series": "series_9",
+    "order_ref": 133,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 322.312,
+    "commission": 0.0,
+    "slippage": 3.7344000000000053
+  },
+  {
+    "date": "1977-04-27",
+    "series": "series_3",
+    "order_ref": 132,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 312.768,
+    "commission": 0.0,
+    "slippage": 0.6897999999999911
+  },
+  {
+    "date": "1977-04-27",
+    "series": "series_10",
+    "order_ref": 134,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.22848,
+    "commission": 0.0,
+    "slippage": 0.012973999999999819
+  },
+  {
+    "date": "1977-04-27",
+    "series": "series_8",
+    "order_ref": 135,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 142.814,
+    "commission": 0.0,
+    "slippage": 0.055799999999999274
+  },
+  {
+    "date": "1977-05-02",
+    "series": "series_4",
+    "order_ref": 136,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 121.414,
+    "commission": 0.0,
+    "slippage": 0.07719999999999914
+  },
+  {
+    "date": "1977-05-16",
+    "series": "series_1",
+    "order_ref": 137,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 182.45,
+    "commission": 0.0,
+    "slippage": 0.04600000000000364
+  },
+  {
+    "date": "1977-05-16",
+    "series": "series_8",
+    "order_ref": 139,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 133.842,
+    "commission": 0.0,
+    "slippage": 0.020800000000002684
+  },
+  {
+    "date": "1977-05-16",
+    "series": "series_2",
+    "order_ref": 138,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.6136,
+    "commission": 0.0,
+    "slippage": 0.0005658000000000164
+  },
+  {
+    "date": "1977-05-18",
+    "series": "series_7",
+    "order_ref": 140,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 130.092,
+    "commission": 0.0,
+    "slippage": 0.07139999999999987
+  },
+  {
+    "date": "1977-05-29",
+    "series": "series_10",
+    "order_ref": 141,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.33801,
+    "commission": 0.0,
+    "slippage": 0.002145999999999759
+  },
+  {
+    "date": "1977-06-01",
+    "series": "series_4",
+    "order_ref": 142,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 115.379,
+    "commission": 0.0,
+    "slippage": 0.5518000000000001
+  },
+  {
+    "date": "1977-06-06",
+    "series": "series_5",
+    "order_ref": 143,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 65.0296,
+    "commission": 0.0,
+    "slippage": 0.1762400000000014
+  },
+  {
+    "date": "1977-06-07",
+    "series": "series_8",
+    "order_ref": 144,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 137.391,
+    "commission": 0.0,
+    "slippage": 0.5622000000000015
+  },
+  {
+    "date": "1977-06-08",
+    "series": "series_6",
+    "order_ref": 145,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 61.0409,
+    "commission": 0.0,
+    "slippage": 0.3716000000000008
+  },
+  {
+    "date": "1977-06-15",
+    "series": "series_4",
+    "order_ref": 146,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 122.705,
+    "commission": 0.0,
+    "slippage": 0.48499999999999943
+  },
+  {
+    "date": "1977-07-04",
+    "series": "series_7",
+    "order_ref": 147,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 137.906,
+    "commission": 0.0,
+    "slippage": 0.1548000000000002
+  },
+  {
+    "date": "1977-07-05",
+    "series": "series_2",
+    "order_ref": 148,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.678429,
+    "commission": 0.0,
+    "slippage": 0.0017305999999999823
+  },
+  {
+    "date": "1977-07-06",
+    "series": "series_9",
+    "order_ref": 149,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 316.169,
+    "commission": 0.0,
+    "slippage": 1.6473999999999933
+  },
+  {
+    "date": "1977-07-09",
+    "series": "series_3",
+    "order_ref": 150,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 301.683,
+    "commission": 0.0,
+    "slippage": 1.1783999999999992
+  },
+  {
+    "date": "1977-07-10",
+    "series": "series_8",
+    "order_ref": 151,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 123.206,
+    "commission": 0.0,
+    "slippage": 0.27959999999999924
+  },
+  {
+    "date": "1977-07-13",
+    "series": "series_6",
+    "order_ref": 152,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 61.0588,
+    "commission": 0.0,
+    "slippage": 0.06119999999999948
+  },
+  {
+    "date": "1977-08-01",
+    "series": "series_10",
+    "order_ref": 153,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.4113,
+    "commission": 0.0,
+    "slippage": 0.03205399999999976
+  },
+  {
+    "date": "1977-08-02",
+    "series": "series_5",
+    "order_ref": 154,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 67.0414,
+    "commission": 0.0,
+    "slippage": 0.02755999999999972
+  },
+  {
+    "date": "1977-08-03",
+    "series": "series_10",
+    "order_ref": 155,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.61636,
+    "commission": 0.0,
+    "slippage": 0.007722000000000052
+  },
+  {
+    "date": "1977-08-08",
+    "series": "series_9",
+    "order_ref": 156,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 322.942,
+    "commission": 0.0,
+    "slippage": 0.42760000000000675
+  },
+  {
+    "date": "1977-08-09",
+    "series": "series_9",
+    "order_ref": 157,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 339.195,
+    "commission": 0.0,
+    "slippage": 2.4775999999999954
+  },
+  {
+    "date": "1977-08-13",
+    "series": "series_2",
+    "order_ref": 158,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.616688,
+    "commission": 0.0,
+    "slippage": 0.0014544000000000113
+  },
+  {
+    "date": "1977-08-17",
+    "series": "series_8",
+    "order_ref": 159,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 133.182,
+    "commission": 0.0,
+    "slippage": 0.15820000000000506
+  },
+  {
+    "date": "1977-08-27",
+    "series": "series_5",
+    "order_ref": 160,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 60.2581,
+    "commission": 0.0,
+    "slippage": 0.1569400000000002
+  },
+  {
+    "date": "1977-08-29",
+    "series": "series_2",
+    "order_ref": 161,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.633619,
+    "commission": 0.0,
+    "slippage": 8.24000000000158e-05
+  },
+  {
+    "date": "1977-08-30",
+    "series": "series_7",
+    "order_ref": 162,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 134.684,
+    "commission": 0.0,
+    "slippage": 1.1507999999999983
+  },
+  {
+    "date": "1977-09-03",
+    "series": "series_6",
+    "order_ref": 163,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 57.0237,
+    "commission": 0.0,
+    "slippage": 0.4436800000000005
+  },
+  {
+    "date": "1977-09-04",
+    "series": "series_2",
+    "order_ref": 164,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.626562,
+    "commission": 0.0,
+    "slippage": 0.002785799999999994
+  },
+  {
+    "date": "1977-09-07",
+    "series": "series_4",
+    "order_ref": 165,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 124.726,
+    "commission": 0.0,
+    "slippage": 0.6057999999999993
+  },
+  {
+    "date": "1977-09-11",
+    "series": "series_2",
+    "order_ref": 166,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.610606,
+    "commission": 0.0,
+    "slippage": 0.0014607999999999956
+  },
+  {
+    "date": "1977-09-18",
+    "series": "series_2",
+    "order_ref": 167,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.592178,
+    "commission": 0.0,
+    "slippage": 0.0012844000000000078
+  },
+  {
+    "date": "1977-09-21",
+    "series": "series_3",
+    "order_ref": 168,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 332.087,
+    "commission": 0.0,
+    "slippage": 1.497199999999998
+  },
+  {
+    "date": "1977-09-24",
+    "series": "series_9",
+    "order_ref": 169,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 345.3,
+    "commission": 0.0,
+    "slippage": 3.736599999999999
+  },
+  {
+    "date": "1977-10-04",
+    "series": "series_2",
+    "order_ref": 170,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.68341,
+    "commission": 0.0,
+    "slippage": 0.0034224000000000034
+  },
+  {
+    "date": "1977-10-09",
+    "series": "series_9",
+    "order_ref": 171,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 345.751,
+    "commission": 0.0,
+    "slippage": 0.36299999999999955
+  },
+  {
+    "date": "1977-10-12",
+    "series": "series_5",
+    "order_ref": 173,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 59.3174,
+    "commission": 0.0,
+    "slippage": 0.1729200000000006
+  },
+  {
+    "date": "1977-10-12",
+    "series": "series_3",
+    "order_ref": 172,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 354.168,
+    "commission": 0.0,
+    "slippage": 2.431600000000003
+  },
+  {
+    "date": "1977-10-18",
+    "series": "series_8",
+    "order_ref": 174,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 133.79,
+    "commission": 0.0,
+    "slippage": 0.30360000000000015
+  },
+  {
+    "date": "1977-10-18",
+    "series": "series_1",
+    "order_ref": 175,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 167.375,
+    "commission": 0.0,
+    "slippage": 0.2228000000000009
+  },
+  {
+    "date": "1977-11-15",
+    "series": "series_2",
+    "order_ref": 176,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.661669,
+    "commission": 0.0,
+    "slippage": 0.0001644000000000201
+  },
+  {
+    "date": "1977-11-15",
+    "series": "series_4",
+    "order_ref": 177,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 124.1,
+    "commission": 0.0,
+    "slippage": 0.5442000000000008
+  },
+  {
+    "date": "1977-11-21",
+    "series": "series_5",
+    "order_ref": 178,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 58.4378,
+    "commission": 0.0,
+    "slippage": 0.35564000000000107
+  },
+  {
+    "date": "1977-11-21",
+    "series": "series_6",
+    "order_ref": 179,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 57.4259,
+    "commission": 0.0,
+    "slippage": 0.36047999999999975
+  },
+  {
+    "date": "1977-11-22",
+    "series": "series_4",
+    "order_ref": 180,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 125.133,
+    "commission": 0.0,
+    "slippage": 0.23460000000000036
+  },
+  {
+    "date": "1977-12-05",
+    "series": "series_10",
+    "order_ref": 181,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.82184,
+    "commission": 0.0,
+    "slippage": 0.017198000000000137
+  },
+  {
+    "date": "1977-12-05",
+    "series": "series_2",
+    "order_ref": 182,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.673074,
+    "commission": 0.0,
+    "slippage": 0.0009681999999999969
+  },
+  {
+    "date": "1977-12-31",
+    "series": "series_5",
+    "order_ref": 183,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 61.1794,
+    "commission": 0.0,
+    "slippage": 0.033480000000000135
+  },
+  {
+    "date": "1978-01-09",
+    "series": "series_10",
+    "order_ref": 184,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.79151,
+    "commission": 0.0,
+    "slippage": 0.04407800000000002
+  },
+  {
+    "date": "1978-02-07",
+    "series": "series_6",
+    "order_ref": 185,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 52.9833,
+    "commission": 0.0,
+    "slippage": 0.017260000000000275
+  },
+  {
+    "date": "1978-02-11",
+    "series": "series_1",
+    "order_ref": 186,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 170.225,
+    "commission": 0.0,
+    "slippage": 0.2353999999999985
+  },
+  {
+    "date": "1978-02-15",
+    "series": "series_9",
+    "order_ref": 188,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 394.907,
+    "commission": 0.0,
+    "slippage": 0.830600000000004
+  },
+  {
+    "date": "1978-02-15",
+    "series": "series_7",
+    "order_ref": 187,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 184.015,
+    "commission": 0.0,
+    "slippage": 0.2204000000000008
+  },
+  {
+    "date": "1978-02-18",
+    "series": "series_3",
+    "order_ref": 189,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 398.428,
+    "commission": 0.0,
+    "slippage": 0.14220000000000255
+  },
+  {
+    "date": "1978-02-21",
+    "series": "series_4",
+    "order_ref": 190,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 115.15,
+    "commission": 0.0,
+    "slippage": 0.21540000000000248
+  },
+  {
+    "date": "1978-03-05",
+    "series": "series_2",
+    "order_ref": 191,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.717572,
+    "commission": 0.0,
+    "slippage": 0.0019368000000000052
+  },
+  {
+    "date": "1978-03-13",
+    "series": "series_1",
+    "order_ref": 192,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 191.898,
+    "commission": 0.0,
+    "slippage": 0.37579999999999814
+  },
+  {
+    "date": "1978-03-22",
+    "series": "series_7",
+    "order_ref": 193,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 188.376,
+    "commission": 0.0,
+    "slippage": 0.6626000000000034
+  },
+  {
+    "date": "1978-04-05",
+    "series": "series_2",
+    "order_ref": 194,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.769754,
+    "commission": 0.0,
+    "slippage": 0.00358099999999999
+  },
+  {
+    "date": "1978-04-08",
+    "series": "series_10",
+    "order_ref": 195,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.0524,
+    "commission": 0.0,
+    "slippage": 0.03479600000000005
+  },
+  {
+    "date": "1978-04-09",
+    "series": "series_9",
+    "order_ref": 196,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 420.639,
+    "commission": 0.0,
+    "slippage": 0.36839999999999695
+  },
+  {
+    "date": "1978-04-10",
+    "series": "series_3",
+    "order_ref": 197,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 430.089,
+    "commission": 0.0,
+    "slippage": 0.4312000000000012
+  },
+  {
+    "date": "1978-04-11",
+    "series": "series_10",
+    "order_ref": 198,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.0867,
+    "commission": 0.0,
+    "slippage": 0.01194000000000024
+  },
+  {
+    "date": "1978-04-12",
+    "series": "series_10",
+    "order_ref": 199,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.0281,
+    "commission": 0.0,
+    "slippage": 0.0040800000000000836
+  },
+  {
+    "date": "1978-04-18",
+    "series": "series_8",
+    "order_ref": 200,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 127.776,
+    "commission": 0.0,
+    "slippage": 0.3793999999999983
+  },
+  {
+    "date": "1978-04-19",
+    "series": "series_10",
+    "order_ref": 201,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.99219,
+    "commission": 0.0,
+    "slippage": 0.02676199999999973
+  },
+  {
+    "date": "1978-04-23",
+    "series": "series_5",
+    "order_ref": 202,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 66.0306,
+    "commission": 0.0,
+    "slippage": 0.06106000000000052
+  },
+  {
+    "date": "1978-04-24",
+    "series": "series_10",
+    "order_ref": 203,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.82541,
+    "commission": 0.0,
+    "slippage": 0.005044000000000182
+  },
+  {
+    "date": "1978-04-26",
+    "series": "series_10",
+    "order_ref": 204,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.0154,
+    "commission": 0.0,
+    "slippage": 0.01346000000000025
+  },
+  {
+    "date": "1978-04-29",
+    "series": "series_10",
+    "order_ref": 205,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 9.78919,
+    "commission": 0.0,
+    "slippage": 0.039123999999999985
+  },
+  {
+    "date": "1978-04-29",
+    "series": "series_6",
+    "order_ref": 206,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 49.8252,
+    "commission": 0.0,
+    "slippage": 0.24715999999999952
+  },
+  {
+    "date": "1978-04-30",
+    "series": "series_1",
+    "order_ref": 207,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 178.178,
+    "commission": 0.0,
+    "slippage": 0.02540000000000191
+  },
+  {
+    "date": "1978-05-02",
+    "series": "series_10",
+    "order_ref": 208,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.0109,
+    "commission": 0.0,
+    "slippage": 0.0047800000000002285
+  },
+  {
+    "date": "1978-05-20",
+    "series": "series_6",
+    "order_ref": 209,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 47.1554,
+    "commission": 0.0,
+    "slippage": 0.08705999999999961
+  },
+  {
+    "date": "1978-05-20",
+    "series": "series_10",
+    "order_ref": 210,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.1021,
+    "commission": 0.0,
+    "slippage": 0.039694000000000076
+  },
+  {
+    "date": "1978-05-21",
+    "series": "series_10",
+    "order_ref": 211,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 9.9261,
+    "commission": 0.0,
+    "slippage": 0.04071999999999996
+  },
+  {
+    "date": "1978-05-27",
+    "series": "series_2",
+    "order_ref": 212,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.760853,
+    "commission": 0.0,
+    "slippage": 0.0035693999999999895
+  },
+  {
+    "date": "1978-05-28",
+    "series": "series_9",
+    "order_ref": 213,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 414.197,
+    "commission": 0.0,
+    "slippage": 3.0039999999999965
+  },
+  {
+    "date": "1978-05-29",
+    "series": "series_3",
+    "order_ref": 214,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 421.295,
+    "commission": 0.0,
+    "slippage": 0.6634000000000015
+  },
+  {
+    "date": "1978-05-29",
+    "series": "series_10",
+    "order_ref": 215,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.0201,
+    "commission": 0.0,
+    "slippage": 0.03018000000000001
+  },
+  {
+    "date": "1978-06-07",
+    "series": "series_8",
+    "order_ref": 216,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 124.564,
+    "commission": 0.0,
+    "slippage": 0.23279999999999745
+  },
+  {
+    "date": "1978-06-20",
+    "series": "series_7",
+    "order_ref": 217,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 213.553,
+    "commission": 0.0,
+    "slippage": 0.2610000000000014
+  },
+  {
+    "date": "1978-06-25",
+    "series": "series_10",
+    "order_ref": 218,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.225,
+    "commission": 0.0,
+    "slippage": 0.04061999999999984
+  },
+  {
+    "date": "1978-06-28",
+    "series": "series_9",
+    "order_ref": 219,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 433.042,
+    "commission": 0.0,
+    "slippage": 0.012800000000004275
+  },
+  {
+    "date": "1978-07-03",
+    "series": "series_1",
+    "order_ref": 220,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 194.928,
+    "commission": 0.0,
+    "slippage": 0.3024000000000001
+  },
+  {
+    "date": "1978-07-10",
+    "series": "series_2",
+    "order_ref": 221,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.797569,
+    "commission": 0.0,
+    "slippage": 0.0005441999999999947
+  },
+  {
+    "date": "1978-07-11",
+    "series": "series_8",
+    "order_ref": 223,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 128.416,
+    "commission": 0.0,
+    "slippage": 0.3597999999999985
+  },
+  {
+    "date": "1978-07-11",
+    "series": "series_3",
+    "order_ref": 222,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 450.045,
+    "commission": 0.0,
+    "slippage": 0.0029999999999972718
+  },
+  {
+    "date": "1978-07-25",
+    "series": "series_4",
+    "order_ref": 224,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 119.61,
+    "commission": 0.0,
+    "slippage": 0.19420000000000073
+  },
+  {
+    "date": "1978-07-26",
+    "series": "series_8",
+    "order_ref": 225,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 125.966,
+    "commission": 0.0,
+    "slippage": 0.31280000000000147
+  },
+  {
+    "date": "1978-07-26",
+    "series": "series_6",
+    "order_ref": 226,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 49.7041,
+    "commission": 0.0,
+    "slippage": 0.07176000000000045
+  },
+  {
+    "date": "1978-07-29",
+    "series": "series_8",
+    "order_ref": 227,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 127.714,
+    "commission": 0.0,
+    "slippage": 0.19739999999999897
+  },
+  {
+    "date": "1978-07-31",
+    "series": "series_5",
+    "order_ref": 228,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 63.6909,
+    "commission": 0.0,
+    "slippage": 0.029659999999999798
+  },
+  {
+    "date": "1978-08-06",
+    "series": "series_2",
+    "order_ref": 229,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.739144,
+    "commission": 0.0,
+    "slippage": 0.0003060000000000063
+  },
+  {
+    "date": "1978-08-09",
+    "series": "series_9",
+    "order_ref": 230,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 437.085,
+    "commission": 0.0,
+    "slippage": 0.6027999999999907
+  },
+  {
+    "date": "1978-08-13",
+    "series": "series_4",
+    "order_ref": 231,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 120.64,
+    "commission": 0.0,
+    "slippage": 0.14780000000000088
+  },
+  {
+    "date": "1978-08-14",
+    "series": "series_5",
+    "order_ref": 232,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 55.8728,
+    "commission": 0.0,
+    "slippage": 0.1269599999999997
+  },
+  {
+    "date": "1978-08-16",
+    "series": "series_4",
+    "order_ref": 233,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 117.61,
+    "commission": 0.0,
+    "slippage": 0.18400000000000036
+  },
+  {
+    "date": "1978-08-20",
+    "series": "series_4",
+    "order_ref": 234,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 118.861,
+    "commission": 0.0,
+    "slippage": 0.32319999999999993
+  },
+  {
+    "date": "1978-08-21",
+    "series": "series_6",
+    "order_ref": 235,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 42.2346,
+    "commission": 0.0,
+    "slippage": 0.005200000000000671
+  },
+  {
+    "date": "1978-08-26",
+    "series": "series_9",
+    "order_ref": 236,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 427.066,
+    "commission": 0.0,
+    "slippage": 2.604200000000003
+  },
+  {
+    "date": "1978-08-28",
+    "series": "series_9",
+    "order_ref": 237,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 432.55,
+    "commission": 0.0,
+    "slippage": 2.2104000000000044
+  },
+  {
+    "date": "1978-09-02",
+    "series": "series_3",
+    "order_ref": 238,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 440.309,
+    "commission": 0.0,
+    "slippage": 2.7538000000000014
+  },
+  {
+    "date": "1978-09-17",
+    "series": "series_1",
+    "order_ref": 239,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 228.34,
+    "commission": 0.0,
+    "slippage": 0.0853999999999985
+  },
+  {
+    "date": "1978-09-23",
+    "series": "series_7",
+    "order_ref": 240,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 180.7,
+    "commission": 0.0,
+    "slippage": 0.978000000000003
+  },
+  {
+    "date": "1978-09-24",
+    "series": "series_5",
+    "order_ref": 241,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 61.5364,
+    "commission": 0.0,
+    "slippage": 0.08048000000000002
+  },
+  {
+    "date": "1978-09-30",
+    "series": "series_4",
+    "order_ref": 242,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 123.083,
+    "commission": 0.0,
+    "slippage": 0.05939999999999941
+  },
+  {
+    "date": "1978-10-02",
+    "series": "series_4",
+    "order_ref": 243,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 123.254,
+    "commission": 0.0,
+    "slippage": 0.2530000000000001
+  },
+  {
+    "date": "1978-10-14",
+    "series": "series_10",
+    "order_ref": 244,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.1376,
+    "commission": 0.0,
+    "slippage": 0.02469999999999999
+  },
+  {
+    "date": "1978-10-16",
+    "series": "series_10",
+    "order_ref": 246,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.2706,
+    "commission": 0.0,
+    "slippage": 0.017599999999999838
+  },
+  {
+    "date": "1978-10-16",
+    "series": "series_6",
+    "order_ref": 245,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 42.9741,
+    "commission": 0.0,
+    "slippage": 0.06877999999999958
+  },
+  {
+    "date": "1978-10-23",
+    "series": "series_7",
+    "order_ref": 247,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 162.786,
+    "commission": 0.0,
+    "slippage": 0.35899999999999754
+  },
+  {
+    "date": "1978-10-23",
+    "series": "series_1",
+    "order_ref": 248,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 246.576,
+    "commission": 0.0,
+    "slippage": 0.9300000000000012
+  },
+  {
+    "date": "1978-10-28",
+    "series": "series_5",
+    "order_ref": 249,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 61.9562,
+    "commission": 0.0,
+    "slippage": 0.14068000000000042
+  },
+  {
+    "date": "1978-11-05",
+    "series": "series_5",
+    "order_ref": 250,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 62.7082,
+    "commission": 0.0,
+    "slippage": 0.03928000000000083
+  },
+  {
+    "date": "1978-11-15",
+    "series": "series_1",
+    "order_ref": 251,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 223.419,
+    "commission": 0.0,
+    "slippage": 0.09039999999999965
+  },
+  {
+    "date": "1978-11-18",
+    "series": "series_3",
+    "order_ref": 252,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 414.054,
+    "commission": 0.0,
+    "slippage": 0.7287999999999898
+  },
+  {
+    "date": "1978-11-19",
+    "series": "series_7",
+    "order_ref": 253,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 178.269,
+    "commission": 0.0,
+    "slippage": 0.48279999999999745
+  },
+  {
+    "date": "1978-11-22",
+    "series": "series_4",
+    "order_ref": 254,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 124.904,
+    "commission": 0.0,
+    "slippage": 0.19319999999999882
+  },
+  {
+    "date": "1978-11-25",
+    "series": "series_2",
+    "order_ref": 255,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.650116,
+    "commission": 0.0,
+    "slippage": 0.00159419999999999
+  },
+  {
+    "date": "1978-11-25",
+    "series": "series_9",
+    "order_ref": 256,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 395.383,
+    "commission": 0.0,
+    "slippage": 1.0841999999999985
+  },
+  {
+    "date": "1978-12-18",
+    "series": "series_3",
+    "order_ref": 257,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 368.239,
+    "commission": 0.0,
+    "slippage": 2.453800000000001
+  },
+  {
+    "date": "1978-12-19",
+    "series": "series_8",
+    "order_ref": 258,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 138.542,
+    "commission": 0.0,
+    "slippage": 0.4803999999999974
+  },
+  {
+    "date": "1978-12-20",
+    "series": "series_9",
+    "order_ref": 260,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 372.667,
+    "commission": 0.0,
+    "slippage": 0.974000000000001
+  },
+  {
+    "date": "1978-12-20",
+    "series": "series_7",
+    "order_ref": 259,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 165.322,
+    "commission": 0.0,
+    "slippage": 0.5331999999999993
+  },
+  {
+    "date": "1978-12-20",
+    "series": "series_4",
+    "order_ref": 261,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 139.038,
+    "commission": 0.0,
+    "slippage": 0.716999999999996
+  },
+  {
+    "date": "1978-12-25",
+    "series": "series_2",
+    "order_ref": 262,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.613425,
+    "commission": 0.0,
+    "slippage": 0.0021222000000000077
+  },
+  {
+    "date": "1979-01-17",
+    "series": "series_7",
+    "order_ref": 263,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 190.421,
+    "commission": 0.0,
+    "slippage": 0.5711999999999989
+  },
+  {
+    "date": "1979-01-28",
+    "series": "series_3",
+    "order_ref": 264,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 379.291,
+    "commission": 0.0,
+    "slippage": 1.0625999999999978
+  },
+  {
+    "date": "1979-01-29",
+    "series": "series_6",
+    "order_ref": 265,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 47.1018,
+    "commission": 0.0,
+    "slippage": 0.01599999999999966
+  },
+  {
+    "date": "1979-01-29",
+    "series": "series_2",
+    "order_ref": 266,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.652397,
+    "commission": 0.0,
+    "slippage": 0.0033519999999999995
+  },
+  {
+    "date": "1979-01-30",
+    "series": "series_9",
+    "order_ref": 267,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 390.709,
+    "commission": 0.0,
+    "slippage": 1.4594000000000051
+  },
+  {
+    "date": "1979-02-04",
+    "series": "series_8",
+    "order_ref": 268,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 145.284,
+    "commission": 0.0,
+    "slippage": 0.7182000000000017
+  },
+  {
+    "date": "1979-02-06",
+    "series": "series_5",
+    "order_ref": 269,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 69.2375,
+    "commission": 0.0,
+    "slippage": 0.015080000000000383
+  },
+  {
+    "date": "1979-02-07",
+    "series": "series_5",
+    "order_ref": 270,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 67.9205,
+    "commission": 0.0,
+    "slippage": 0.41237999999999886
+  },
+  {
+    "date": "1979-02-13",
+    "series": "series_5",
+    "order_ref": 271,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 70.1121,
+    "commission": 0.0,
+    "slippage": 0.11007999999999925
+  },
+  {
+    "date": "1979-02-14",
+    "series": "series_5",
+    "order_ref": 272,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 68.9243,
+    "commission": 0.0,
+    "slippage": 0.3747399999999999
+  },
+  {
+    "date": "1979-02-24",
+    "series": "series_10",
+    "order_ref": 273,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 10.4538,
+    "commission": 0.0,
+    "slippage": 0.000140000000000029
+  },
+  {
+    "date": "1979-02-26",
+    "series": "series_1",
+    "order_ref": 274,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 202.7,
+    "commission": 0.0,
+    "slippage": 0.3849999999999966
+  },
+  {
+    "date": "1979-03-14",
+    "series": "series_6",
+    "order_ref": 275,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 49.8244,
+    "commission": 0.0,
+    "slippage": 0.09403999999999968
+  },
+  {
+    "date": "1979-03-19",
+    "series": "series_3",
+    "order_ref": 276,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 391.964,
+    "commission": 0.0,
+    "slippage": 1.8272000000000048
+  },
+  {
+    "date": "1979-03-24",
+    "series": "series_9",
+    "order_ref": 277,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 396.769,
+    "commission": 0.0,
+    "slippage": 0.20439999999999828
+  },
+  {
+    "date": "1979-03-25",
+    "series": "series_10",
+    "order_ref": 278,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 10.6788,
+    "commission": 0.0,
+    "slippage": 0.03333999999999975
+  },
+  {
+    "date": "1979-04-02",
+    "series": "series_7",
+    "order_ref": 279,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 166.732,
+    "commission": 0.0,
+    "slippage": 0.4673999999999978
+  },
+  {
+    "date": "1979-04-10",
+    "series": "series_1",
+    "order_ref": 280,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 192.938,
+    "commission": 0.0,
+    "slippage": 0.22900000000000206
+  },
+  {
+    "date": "1979-04-10",
+    "series": "series_5",
+    "order_ref": 281,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 65.1422,
+    "commission": 0.0,
+    "slippage": 0.235499999999999
+  },
+  {
+    "date": "1979-04-17",
+    "series": "series_2",
+    "order_ref": 282,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.643736,
+    "commission": 0.0,
+    "slippage": 0.003031000000000006
+  },
+  {
+    "date": "1979-04-30",
+    "series": "series_3",
+    "order_ref": 283,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 391.84,
+    "commission": 0.0,
+    "slippage": 0.8407999999999902
+  },
+  {
+    "date": "1979-05-05",
+    "series": "series_3",
+    "order_ref": 284,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 401.036,
+    "commission": 0.0,
+    "slippage": 1.645799999999997
+  },
+  {
+    "date": "1979-05-16",
+    "series": "series_8",
+    "order_ref": 285,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 143.133,
+    "commission": 0.0,
+    "slippage": 0.37719999999999915
+  },
+  {
+    "date": "1979-05-20",
+    "series": "series_1",
+    "order_ref": 286,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 193.149,
+    "commission": 0.0,
+    "slippage": 0.14579999999999702
+  },
+  {
+    "date": "1979-05-20",
+    "series": "series_3",
+    "order_ref": 287,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 397.969,
+    "commission": 0.0,
+    "slippage": 1.806600000000003
+  },
+  {
+    "date": "1979-05-27",
+    "series": "series_4",
+    "order_ref": 288,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 174.342,
+    "commission": 0.0,
+    "slippage": 0.6813999999999965
+  },
+  {
+    "date": "1979-05-27",
+    "series": "series_6",
+    "order_ref": 289,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 52.212,
+    "commission": 0.0,
+    "slippage": 0.1871600000000001
+  },
+  {
+    "date": "1979-06-03",
+    "series": "series_3",
+    "order_ref": 290,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 382.887,
+    "commission": 0.0,
+    "slippage": 0.0830000000000041
+  },
+  {
+    "date": "1979-06-05",
+    "series": "series_1",
+    "order_ref": 291,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 191.606,
+    "commission": 0.0,
+    "slippage": 0.7812000000000012
+  },
+  {
+    "date": "1979-06-19",
+    "series": "series_6",
+    "order_ref": 292,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 54.4683,
+    "commission": 0.0,
+    "slippage": 0.09342000000000042
+  },
+  {
+    "date": "1979-07-03",
+    "series": "series_8",
+    "order_ref": 293,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 146.126,
+    "commission": 0.0,
+    "slippage": 0.03619999999999664
+  },
+  {
+    "date": "1979-07-11",
+    "series": "series_8",
+    "order_ref": 294,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 138.232,
+    "commission": 0.0,
+    "slippage": 0.23480000000000134
+  },
+  {
+    "date": "1979-07-15",
+    "series": "series_5",
+    "order_ref": 295,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 63.8058,
+    "commission": 0.0,
+    "slippage": 0.3285000000000011
+  },
+  {
+    "date": "1979-07-22",
+    "series": "series_6",
+    "order_ref": 296,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 53.426,
+    "commission": 0.0,
+    "slippage": 0.12226
+  },
+  {
+    "date": "1979-07-23",
+    "series": "series_5",
+    "order_ref": 297,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 65.0326,
+    "commission": 0.0,
+    "slippage": 0.11970000000000028
+  },
+  {
+    "date": "1979-07-29",
+    "series": "series_7",
+    "order_ref": 298,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 136.007,
+    "commission": 0.0,
+    "slippage": 0.31340000000000146
+  },
+  {
+    "date": "1979-08-08",
+    "series": "series_2",
+    "order_ref": 299,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.617782,
+    "commission": 0.0,
+    "slippage": 0.0009346000000000076
+  },
+  {
+    "date": "1979-08-14",
+    "series": "series_8",
+    "order_ref": 301,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 152.143,
+    "commission": 0.0,
+    "slippage": 0.48419999999999846
+  },
+  {
+    "date": "1979-08-14",
+    "series": "series_4",
+    "order_ref": 300,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 170.923,
+    "commission": 0.0,
+    "slippage": 0.10699999999999932
+  },
+  {
+    "date": "1979-08-15",
+    "series": "series_3",
+    "order_ref": 302,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 341.346,
+    "commission": 0.0,
+    "slippage": 0.37999999999999545
+  },
+  {
+    "date": "1979-08-25",
+    "series": "series_4",
+    "order_ref": 303,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 170.178,
+    "commission": 0.0,
+    "slippage": 0.03720000000000141
+  },
+  {
+    "date": "1979-08-25",
+    "series": "series_7",
+    "order_ref": 304,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 119.687,
+    "commission": 0.0,
+    "slippage": 0.08739999999999953
+  },
+  {
+    "date": "1979-08-28",
+    "series": "series_3",
+    "order_ref": 305,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 329.16,
+    "commission": 0.0,
+    "slippage": 0.3650000000000091
+  },
+  {
+    "date": "1979-08-28",
+    "series": "series_4",
+    "order_ref": 306,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 178.709,
+    "commission": 0.0,
+    "slippage": 0.37019999999999986
+  },
+  {
+    "date": "1979-09-05",
+    "series": "series_2",
+    "order_ref": 307,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.552185,
+    "commission": 0.0,
+    "slippage": 0.0002644000000000091
+  },
+  {
+    "date": "1979-09-10",
+    "series": "series_8",
+    "order_ref": 308,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 135.063,
+    "commission": 0.0,
+    "slippage": 0.47060000000000174
+  },
+  {
+    "date": "1979-09-23",
+    "series": "series_7",
+    "order_ref": 309,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 125.846,
+    "commission": 0.0,
+    "slippage": 0.30500000000000116
+  },
+  {
+    "date": "1979-10-07",
+    "series": "series_4",
+    "order_ref": 310,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 163.328,
+    "commission": 0.0,
+    "slippage": 0.5803999999999974
+  },
+  {
+    "date": "1979-10-14",
+    "series": "series_1",
+    "order_ref": 311,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 154.662,
+    "commission": 0.0,
+    "slippage": 0.31639999999999874
+  },
+  {
+    "date": "1979-10-16",
+    "series": "series_5",
+    "order_ref": 312,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 63.3854,
+    "commission": 0.0,
+    "slippage": 7.999999999981356e-05
+  },
+  {
+    "date": "1979-10-16",
+    "series": "series_9",
+    "order_ref": 313,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 325.879,
+    "commission": 0.0,
+    "slippage": 1.1293999999999984
+  },
+  {
+    "date": "1979-10-20",
+    "series": "series_2",
+    "order_ref": 314,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.611529,
+    "commission": 0.0,
+    "slippage": 0.0018262
+  },
+  {
+    "date": "1979-10-20",
+    "series": "series_3",
+    "order_ref": 315,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 341.991,
+    "commission": 0.0,
+    "slippage": 0.5559999999999946
+  },
+  {
+    "date": "1979-10-21",
+    "series": "series_6",
+    "order_ref": 316,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 49.8213,
+    "commission": 0.0,
+    "slippage": 0.07420000000000045
+  },
+  {
+    "date": "1979-10-29",
+    "series": "series_8",
+    "order_ref": 317,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 143.764,
+    "commission": 0.0,
+    "slippage": 0.07479999999999905
+  },
+  {
+    "date": "1979-11-19",
+    "series": "series_9",
+    "order_ref": 318,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 319.419,
+    "commission": 0.0,
+    "slippage": 0.3312000000000012
+  },
+  {
+    "date": "1979-11-21",
+    "series": "series_1",
+    "order_ref": 319,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 149.497,
+    "commission": 0.0,
+    "slippage": 0.05999999999999659
+  },
+  {
+    "date": "1979-11-24",
+    "series": "series_3",
+    "order_ref": 320,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 316.704,
+    "commission": 0.0,
+    "slippage": 1.3355999999999995
+  },
+  {
+    "date": "1979-11-25",
+    "series": "series_4",
+    "order_ref": 321,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 159.81,
+    "commission": 0.0,
+    "slippage": 0.8038000000000012
+  },
+  {
+    "date": "1979-11-27",
+    "series": "series_2",
+    "order_ref": 322,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.585084,
+    "commission": 0.0,
+    "slippage": 0.0004281999999999897
+  },
+  {
+    "date": "1979-12-05",
+    "series": "series_4",
+    "order_ref": 323,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 159.729,
+    "commission": 0.0,
+    "slippage": 0.3509999999999991
+  },
+  {
+    "date": "1979-12-24",
+    "series": "series_5",
+    "order_ref": 324,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 64.9926,
+    "commission": 0.0,
+    "slippage": 0.035259999999999535
+  },
+  {
+    "date": "1980-01-08",
+    "series": "series_6",
+    "order_ref": 325,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 51.1154,
+    "commission": 0.0,
+    "slippage": 0.27049999999999985
+  },
+  {
+    "date": "1980-01-09",
+    "series": "series_2",
+    "order_ref": 326,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.6055,
+    "commission": 0.0,
+    "slippage": 0.0013573999999999975
+  },
+  {
+    "date": "1980-01-14",
+    "series": "series_4",
+    "order_ref": 327,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 177.772,
+    "commission": 0.0,
+    "slippage": 0.025399999999996228
+  },
+  {
+    "date": "1980-01-29",
+    "series": "series_7",
+    "order_ref": 328,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 150.155,
+    "commission": 0.0,
+    "slippage": 0.2509999999999991
+  },
+  {
+    "date": "1980-02-13",
+    "series": "series_8",
+    "order_ref": 329,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 140.263,
+    "commission": 0.0,
+    "slippage": 0.13120000000000118
+  },
+  {
+    "date": "1980-02-20",
+    "series": "series_2",
+    "order_ref": 330,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.593796,
+    "commission": 0.0,
+    "slippage": 0.0015247999999999928
+  },
+  {
+    "date": "1980-02-23",
+    "series": "series_4",
+    "order_ref": 331,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 165.007,
+    "commission": 0.0,
+    "slippage": 0.4137999999999977
+  },
+  {
+    "date": "1980-03-12",
+    "series": "series_10",
+    "order_ref": 332,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 12.1483,
+    "commission": 0.0,
+    "slippage": 0.033259999999999935
+  },
+  {
+    "date": "1980-03-17",
+    "series": "series_2",
+    "order_ref": 333,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.641531,
+    "commission": 0.0,
+    "slippage": 0.002600400000000014
+  },
+  {
+    "date": "1980-03-18",
+    "series": "series_1",
+    "order_ref": 334,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 133.533,
+    "commission": 0.0,
+    "slippage": 0.21899999999999978
+  },
+  {
+    "date": "1980-03-22",
+    "series": "series_9",
+    "order_ref": 335,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 281.933,
+    "commission": 0.0,
+    "slippage": 1.1285999999999945
+  },
+  {
+    "date": "1980-03-23",
+    "series": "series_3",
+    "order_ref": 336,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 285.17,
+    "commission": 0.0,
+    "slippage": 0.127800000000002
+  },
+  {
+    "date": "1980-03-30",
+    "series": "series_8",
+    "order_ref": 337,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 141.009,
+    "commission": 0.0,
+    "slippage": 0.6803999999999975
+  },
+  {
+    "date": "1980-03-31",
+    "series": "series_8",
+    "order_ref": 338,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 140.514,
+    "commission": 0.0,
+    "slippage": 0.12959999999999924
+  },
+  {
+    "date": "1980-04-02",
+    "series": "series_8",
+    "order_ref": 339,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 141.728,
+    "commission": 0.0,
+    "slippage": 0.14780000000000088
+  },
+  {
+    "date": "1980-04-05",
+    "series": "series_8",
+    "order_ref": 340,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 143.096,
+    "commission": 0.0,
+    "slippage": 0.1812000000000012
+  },
+  {
+    "date": "1980-04-07",
+    "series": "series_7",
+    "order_ref": 341,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 137.15,
+    "commission": 0.0,
+    "slippage": 0.1466000000000008
+  },
+  {
+    "date": "1980-04-12",
+    "series": "series_1",
+    "order_ref": 342,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 121.273,
+    "commission": 0.0,
+    "slippage": 0.3330000000000013
+  },
+  {
+    "date": "1980-04-12",
+    "series": "series_8",
+    "order_ref": 343,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 144.164,
+    "commission": 0.0,
+    "slippage": 0.7094000000000051
+  },
+  {
+    "date": "1980-04-21",
+    "series": "series_6",
+    "order_ref": 344,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 45.836,
+    "commission": 0.0,
+    "slippage": 0.21745999999999982
+  },
+  {
+    "date": "1980-04-29",
+    "series": "series_9",
+    "order_ref": 346,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 276.072,
+    "commission": 0.0,
+    "slippage": 0.3394000000000006
+  },
+  {
+    "date": "1980-04-29",
+    "series": "series_2",
+    "order_ref": 345,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.645504,
+    "commission": 0.0,
+    "slippage": 0.0002661999999999942
+  },
+  {
+    "date": "1980-04-30",
+    "series": "series_2",
+    "order_ref": 347,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.63277,
+    "commission": 0.0,
+    "slippage": 0.0025109999999999967
+  },
+  {
+    "date": "1980-05-03",
+    "series": "series_3",
+    "order_ref": 349,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 284.971,
+    "commission": 0.0,
+    "slippage": 0.741999999999996
+  },
+  {
+    "date": "1980-05-03",
+    "series": "series_2",
+    "order_ref": 348,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.64525,
+    "commission": 0.0,
+    "slippage": 0.002126000000000006
+  },
+  {
+    "date": "1980-05-05",
+    "series": "series_10",
+    "order_ref": 350,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 12.4906,
+    "commission": 0.0,
+    "slippage": 0.0054600000000000655
+  },
+  {
+    "date": "1980-05-19",
+    "series": "series_10",
+    "order_ref": 351,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 12.4242,
+    "commission": 0.0,
+    "slippage": 0.021059999999999947
+  },
+  {
+    "date": "1980-05-28",
+    "series": "series_10",
+    "order_ref": 352,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 12.5725,
+    "commission": 0.0,
+    "slippage": 0.034560000000000105
+  },
+  {
+    "date": "1980-06-07",
+    "series": "series_8",
+    "order_ref": 353,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 139.055,
+    "commission": 0.0,
+    "slippage": 0.24699999999999706
+  },
+  {
+    "date": "1980-06-09",
+    "series": "series_10",
+    "order_ref": 354,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 12.3932,
+    "commission": 0.0,
+    "slippage": 0.024940000000000143
+  },
+  {
+    "date": "1980-06-09",
+    "series": "series_1",
+    "order_ref": 355,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 123.081,
+    "commission": 0.0,
+    "slippage": 0.302200000000002
+  },
+  {
+    "date": "1980-06-16",
+    "series": "series_7",
+    "order_ref": 356,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 143.265,
+    "commission": 0.0,
+    "slippage": 0.2029999999999973
+  },
+  {
+    "date": "1980-07-08",
+    "series": "series_9",
+    "order_ref": 357,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 271.489,
+    "commission": 0.0,
+    "slippage": 0.3548000000000002
+  },
+  {
+    "date": "1980-07-09",
+    "series": "series_6",
+    "order_ref": 358,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 45.0276,
+    "commission": 0.0,
+    "slippage": 0.03872000000000071
+  },
+  {
+    "date": "1980-07-12",
+    "series": "series_3",
+    "order_ref": 359,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 278.115,
+    "commission": 0.0,
+    "slippage": 0.14039999999999964
+  },
+  {
+    "date": "1980-07-14",
+    "series": "series_2",
+    "order_ref": 360,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.623753,
+    "commission": 0.0,
+    "slippage": 0.0019697999999999994
+  },
+  {
+    "date": "1980-07-27",
+    "series": "series_1",
+    "order_ref": 361,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 123.536,
+    "commission": 0.0,
+    "slippage": 0.10860000000000128
+  },
+  {
+    "date": "1980-08-13",
+    "series": "series_2",
+    "order_ref": 362,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.605633,
+    "commission": 0.0,
+    "slippage": 0.00153620000000001
+  },
+  {
+    "date": "1980-08-19",
+    "series": "series_10",
+    "order_ref": 364,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 12.2225,
+    "commission": 0.0,
+    "slippage": 0.00876000000000019
+  },
+  {
+    "date": "1980-08-19",
+    "series": "series_5",
+    "order_ref": 363,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 55.3007,
+    "commission": 0.0,
+    "slippage": 0.2947000000000003
+  },
+  {
+    "date": "1980-08-25",
+    "series": "series_1",
+    "order_ref": 365,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 127.377,
+    "commission": 0.0,
+    "slippage": 0.1404000000000025
+  },
+  {
+    "date": "1980-08-25",
+    "series": "series_8",
+    "order_ref": 366,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 133.734,
+    "commission": 0.0,
+    "slippage": 0.2913999999999987
+  },
+  {
+    "date": "1980-08-30",
+    "series": "series_4",
+    "order_ref": 367,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 140.158,
+    "commission": 0.0,
+    "slippage": 0.5901999999999987
+  },
+  {
+    "date": "1980-09-02",
+    "series": "series_7",
+    "order_ref": 368,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 137.871,
+    "commission": 0.0,
+    "slippage": 0.04959999999999809
+  },
+  {
+    "date": "1980-09-15",
+    "series": "series_3",
+    "order_ref": 369,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 304.729,
+    "commission": 0.0,
+    "slippage": 0.047399999999993274
+  },
+  {
+    "date": "1980-09-20",
+    "series": "series_9",
+    "order_ref": 371,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 317.585,
+    "commission": 0.0,
+    "slippage": 0.32180000000000747
+  },
+  {
+    "date": "1980-09-20",
+    "series": "series_4",
+    "order_ref": 370,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 127.694,
+    "commission": 0.0,
+    "slippage": 0.05819999999999936
+  },
+  {
+    "date": "1980-09-21",
+    "series": "series_6",
+    "order_ref": 372,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 44.2053,
+    "commission": 0.0,
+    "slippage": 0.04329999999999928
+  },
+  {
+    "date": "1980-09-23",
+    "series": "series_10",
+    "order_ref": 373,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 12.0164,
+    "commission": 0.0,
+    "slippage": 0.02326000000000015
+  },
+  {
+    "date": "1980-09-28",
+    "series": "series_2",
+    "order_ref": 374,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.605229,
+    "commission": 0.0,
+    "slippage": 0.0020432000000000007
+  },
+  {
+    "date": "1980-10-05",
+    "series": "series_9",
+    "order_ref": 375,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 330.267,
+    "commission": 0.0,
+    "slippage": 1.5764000000000011
+  },
+  {
+    "date": "1980-10-06",
+    "series": "series_7",
+    "order_ref": 376,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 143.193,
+    "commission": 0.0,
+    "slippage": 0.4728000000000009
+  },
+  {
+    "date": "1980-10-08",
+    "series": "series_3",
+    "order_ref": 377,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 328.496,
+    "commission": 0.0,
+    "slippage": 1.1728000000000065
+  },
+  {
+    "date": "1980-10-20",
+    "series": "series_7",
+    "order_ref": 378,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 144.907,
+    "commission": 0.0,
+    "slippage": 0.025399999999996228
+  },
+  {
+    "date": "1980-10-28",
+    "series": "series_10",
+    "order_ref": 379,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 12.2732,
+    "commission": 0.0,
+    "slippage": 0.014339999999999976
+  },
+  {
+    "date": "1980-11-08",
+    "series": "series_2",
+    "order_ref": 380,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.61034,
+    "commission": 0.0,
+    "slippage": 0.00014939999999998845
+  },
+  {
+    "date": "1980-11-23",
+    "series": "series_1",
+    "order_ref": 381,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 144.139,
+    "commission": 0.0,
+    "slippage": 0.0014000000000010005
+  },
+  {
+    "date": "1980-11-24",
+    "series": "series_2",
+    "order_ref": 382,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 0.629831,
+    "commission": 0.0,
+    "slippage": 0.002376199999999984
+  },
+  {
+    "date": "1980-11-30",
+    "series": "series_4",
+    "order_ref": 383,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 125.248,
+    "commission": 0.0,
+    "slippage": 0.13440000000000227
+  },
+  {
+    "date": "1980-12-07",
+    "series": "series_1",
+    "order_ref": 384,
+    "order_type": "Market",
+    "size": 1.0,
+    "price": 146.872,
+    "commission": 0.0,
+    "slippage": 0.28379999999999656
+  },
+  {
+    "date": "1980-12-09",
+    "series": "series_5",
+    "order_ref": 385,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 61.9053,
+    "commission": 0.0,
+    "slippage": 0.0343599999999995
+  },
+  {
+    "date": "1980-12-24",
+    "series": "series_4",
+    "order_ref": 386,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 101.534,
+    "commission": 0.0,
+    "slippage": 0.21260000000000048
+  },
+  {
+    "date": "1980-12-24",
+    "series": "series_6",
+    "order_ref": 387,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 44.3216,
+    "commission": 0.0,
+    "slippage": 0.11234000000000038
+  },
+  {
+    "date": "1980-12-27",
+    "series": "series_8",
+    "order_ref": 388,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 255.741,
+    "commission": 0.0,
+    "slippage": 2.0367999999999995
+  },
+  {
+    "date": "1980-12-30",
+    "series": "series_7",
+    "order_ref": 389,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 145.423,
+    "commission": 0.0,
+    "slippage": 0.06879999999999882
+  },
+  {
+    "date": "1981-01-03",
+    "series": "series_9",
+    "order_ref": 390,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 373.412,
+    "commission": 0.0,
+    "slippage": 0.9391999999999939
+  },
+  {
+    "date": "1981-01-05",
+    "series": "series_3",
+    "order_ref": 391,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 374.819,
+    "commission": 0.0,
+    "slippage": 1.4392000000000054
+  },
+  {
+    "date": "1981-01-11",
+    "series": "series_2",
+    "order_ref": 392,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 0.662716,
+    "commission": 0.0,
+    "slippage": 0.0010221999999999955
+  },
+  {
+    "date": "1981-01-26",
+    "series": "series_10",
+    "order_ref": 393,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 12.4605,
+    "commission": 0.0,
+    "slippage": 0.026699999999999946
+  },
+  {
+    "date": "1981-01-27",
+    "series": "series_1",
+    "order_ref": 394,
+    "order_type": "Market",
+    "size": -1.0,
+    "price": 153.947,
+    "commission": 0.0,
+    "slippage": 0.36960000000000265
+  }
+]

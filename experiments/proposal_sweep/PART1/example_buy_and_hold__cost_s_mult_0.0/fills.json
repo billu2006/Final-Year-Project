@@ -1,0 +1,22 @@
+[
+  {
+    "date": "1975-02-26",
+    "series": "series_1",
+    "order_ref": 1,
+    "order_type": "Market",
+    "size": 1,
+    "price": 170.904,
+    "commission": 0.0,
+    "slippage": 0.0
+  },
+  {
+    "date": "1981-01-27",
+    "series": "series_1",
+    "order_ref": 2,
+    "order_type": "Market",
+    "size": -1,
+    "price": 153.947,
+    "commission": 0.0,
+    "slippage": 0.0
+  }
+]

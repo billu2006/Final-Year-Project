@@ -1,0 +1,107 @@
+{
+  "metric_version": "net_pd_v1",
+  "valuation": "daily_close",
+  "portfolio": {
+    "pd_ratio": 0.91,
+    "pd_status": "profitable",
+    "net_profit": 152001.66955000442,
+    "max_drawdown": 167777.2439,
+    "max_drawdown_duration_bars": 487,
+    "start_equity": 1000000.0,
+    "final_equity": 1152001.6695500044,
+    "commission": 0.0,
+    "slippage": 4875.321749999999
+  },
+  "per_instrument": {
+    "series_1": {
+      "pd_ratio": 0.87,
+      "pd_status": "profitable",
+      "net_profit": 22057.42659999999,
+      "max_drawdown": 25336.724000000002,
+      "max_drawdown_duration_bars": 654,
+      "commission": 0.0,
+      "slippage": 209.5193999999986
+    },
+    "series_2": {
+      "pd_ratio": 0.94,
+      "pd_status": "profitable",
+      "net_profit": 76924.24102000004,
+      "max_drawdown": 81889.22700000001,
+      "max_drawdown_duration_bars": 922,
+      "commission": 0.0,
+      "slippage": 929.4475799999889
+    },
+    "series_3": {
+      "pd_ratio": -32932.81,
+      "pd_status": "loss",
+      "net_profit": -32932.810300000034,
+      "max_drawdown": 49184.95750000003,
+      "max_drawdown_duration_bars": 1268,
+      "commission": 0.0,
+      "slippage": 241.75529999999839
+    },
+    "series_4": {
+      "pd_ratio": 0.88,
+      "pd_status": "profitable",
+      "net_profit": 28514.137690000025,
+      "max_drawdown": 32408.93600000001,
+      "max_drawdown_duration_bars": 689,
+      "commission": 0.0,
+      "slippage": 183.8075099999992
+    },
+    "series_5": {
+      "pd_ratio": -33455.35,
+      "pd_status": "loss",
+      "net_profit": -33455.35186999999,
+      "max_drawdown": 78367.35949999999,
+      "max_drawdown_duration_bars": 1174,
+      "commission": 0.0,
+      "slippage": 284.32046999999983
+    },
+    "series_6": {
+      "pd_ratio": -28637.44,
+      "pd_status": "loss",
+      "net_profit": -28637.442900000024,
+      "max_drawdown": 64164.09299999999,
+      "max_drawdown_duration_bars": 737,
+      "commission": 0.0,
+      "slippage": 444.867900000003
+    },
+    "series_7": {
+      "pd_ratio": 0.57,
+      "pd_status": "profitable",
+      "net_profit": 10076.988570000027,
+      "max_drawdown": 17757.9675,
+      "max_drawdown_duration_bars": 446,
+      "commission": 0.0,
+      "slippage": 155.48132999999942
+    },
+    "series_8": {
+      "pd_ratio": -30457.33,
+      "pd_status": "loss",
+      "net_profit": -30457.333599999925,
+      "max_drawdown": 64592.64339999993,
+      "max_drawdown_duration_bars": 1362,
+      "commission": 0.0,
+      "slippage": 694.0746000000026
+    },
+    "series_9": {
+      "pd_ratio": 1.73,
+      "pd_status": "profitable",
+      "net_profit": 172321.01973999987,
+      "max_drawdown": 99812.601,
+      "max_drawdown_duration_bars": 483,
+      "commission": 0.0,
+      "slippage": 1291.5882600000089
+    },
+    "series_10": {
+      "pd_ratio": -32409.21,
+      "pd_status": "loss",
+      "net_profit": -32409.205399999926,
+      "max_drawdown": 66866.61499999996,
+      "max_drawdown_duration_bars": 1175,
+      "commission": 0.0,
+      "slippage": 440.4594000000007
+    }
+  }
+}
