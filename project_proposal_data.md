@@ -309,7 +309,7 @@ Raw results are in `experiments/proposal_sweep/results.csv` and `experiments/pro
 
 ### 11.1 Summary
 
-1. **No signal strategy has a reliable edge after costs.** Every signal strategy loses money at baseline on at least one dataset, and most lose on both.
+1. **No signal strategy has a reliable edge after costs.** Every signal strategy loses money at baseline on at least one dataset (DATA PART1, DATA PART 1 UPDATED), and most lose on both.
 2. **Trading less is the most consistent way to improve results.** Wider bands, higher RSI thresholds and longer lookbacks cut the number of trades and improve profit on both datasets.
 3. **Execution costs decide most outcomes.** Removing slippage turns several losing strategies into break-even or small winners.
 4. **The predictable part of the price move happens overnight.** On `PART1`, prices reverse strongly from one day to the next, but almost all of that reversal happens between the close and the next open. Market orders fill at that open, so they arrive too late and also pay slippage on the gap.
